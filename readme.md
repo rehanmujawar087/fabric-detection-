@@ -4,7 +4,7 @@ An AI-powered textile management application designed to make textile factory op
 
 ## 🌐 Live Demo
 
-🔗 **[Mujawar Textile](https://mujawar.ccbp.tech/)**
+🔗 **[Mujawar Textile](https://rehan1.ccbp.tech/)**
 
 ## 📌 About the Project
 
